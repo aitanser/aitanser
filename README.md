@@ -18,30 +18,6 @@
 
 ---
 
-<p align="center">
-  <samp>
-                  ✦ 蓝域星河 · 星图坐标 ✦
-    ┌─────────────────────────────────────────────┐
-    │                                             │
-    │   🌏 山河丈量  ·  B站地理科普                │
-    │   📜 时光拾遗  ·  历史 · 文学 · 音乐         │
-    │   🌌 星河筑路  ·  StarSeaOS v2.0.0-beta.2    │
-    │                                             │
-    │   📡 信号源                                  │
-    │   · GitHub: @aitanser                       │
-    │   · 爱发电: aitanser                        │
-    │   · 官网: bloge / shares / starsea-os        │
-    │                                             │
-    │   🔬 工具箱                                  │
-    │   · UniversalDownloadHelper v1.2.0           │
-    │   · starsea-market                          │
-    │                                             │
-    └─────────────────────────────────────────────┘
-  </samp>
-</p>
-
----
-
 ## 🔭 正在构建：我的山河舆图
 
 > 每一个项目，都是一片正在隆起的陆地。
@@ -143,10 +119,12 @@
 
 ---
 
+<br>
+
 <p align="center">
+  <a href="https://github.com/aitanser"><img src="https://img.shields.io/badge/GitHub-@aitanser-181717?style=flat&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/github/followers/aitanser?style=social" alt="followers">
   <a href="https://afdian.com/a/aitanser"><img src="https://img.shields.io/badge/爱发电-赞助我-ff6b6b?style=flat&logo=heart" alt="爱发电"></a>
+  <a href="https://m.bilibili.com/space/3493109964999279"><img src="https://img.shields.io/badge/B站-地理科普-00a1d6?style=flat&logo=bilibili" alt="B站"></a>
   <a href="https://github.com/aitanser/starsea-os/blob/main/LICENSE.txt"><img src="https://img.shields.io/badge/LICENSE-星海量子软件许可协议-3b82f6?style=flat" alt="LICENSE"></a>
-  <img src="https://img.shields.io/badge/Status-全新世-blueviolet?style=flat" alt="Status">
-  <img src="https://img.shields.io/badge/信念-不想回到末次冰期-lightgrey?style=flat" alt="信念">
 </p>
