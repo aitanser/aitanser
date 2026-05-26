@@ -18,6 +18,30 @@
 
 ---
 
+<p align="center">
+  <samp>
+                  ✦ 蓝域星河 · 星图坐标 ✦
+    ┌─────────────────────────────────────────────┐
+    │                                             │
+    │   🌏 山河丈量  ·  B站地理科普                │
+    │   📜 时光拾遗  ·  历史 · 文学 · 音乐         │
+    │   🌌 星河筑路  ·  StarSeaOS v2.0.0-beta.2    │
+    │                                             │
+    │   📡 信号源                                  │
+    │   · GitHub: @aitanser                       │
+    │   · 爱发电: aitanser                        │
+    │   · 官网: bloge / shares / starsea-os        │
+    │                                             │
+    │   🔬 工具箱                                  │
+    │   · UniversalDownloadHelper v1.2.0           │
+    │   · starsea-market                          │
+    │                                             │
+    └─────────────────────────────────────────────┘
+  </samp>
+</p>
+
+---
+
 ## 🔭 正在构建：我的山河舆图
 
 > 每一个项目，都是一片正在隆起的陆地。
@@ -119,26 +143,10 @@
 
 ---
 
-## 🏷️ 星河徽章
-
 <p align="center">
-  <a href="https://github.com/aitanser"><img src="https://img.shields.io/badge/GitHub-@aitanser-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="https://github.com/aitanser?tab=followers"><img src="https://img.shields.io/github/followers/aitanser?style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/aitanser/starsea-os"><img src="https://img.shields.io/badge/StarSeaOS-v2.0.0_beta.2-3b82f6?style=flat&logo=python" alt="StarSeaOS"></a>
-  <a href="https://github.com/aitanser/UniversalDownloadHelper"><img src="https://img.shields.io/badge/DownloadHelper-v1.2.0-8b5cf6?style=flat&logo=tampermonkey" alt="UniversalDownloadHelper"></a>
-  <br>
+  <img src="https://img.shields.io/github/followers/aitanser?style=social" alt="followers">
   <a href="https://afdian.com/a/aitanser"><img src="https://img.shields.io/badge/爱发电-赞助我-ff6b6b?style=flat&logo=heart" alt="爱发电"></a>
-  <a href="https://m.bilibili.com/space/3493109964999279"><img src="https://img.shields.io/badge/Bilibili-地理科普-00a1d6?style=flat&logo=bilibili" alt="Bilibili"></a>
-  <a href="https://aitanser.github.io/bloge/"><img src="https://img.shields.io/badge/Website-个人官网-10b981?style=flat&logo=google-chrome" alt="个人官网"></a>
-  <a href="https://github.com/aitanser/starsea-market"><img src="https://img.shields.io/badge/Market-应用市场-f59e0b?style=flat&logo=shopify" alt="应用市场"></a>
-  <br>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go" alt="Go">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" alt="Kubernetes">
-  <br>
-  <img src="https://img.shields.io/badge/源码-保留所有权利-inactive?style=flat" alt="License">
+  <a href="https://github.com/aitanser/starsea-os/blob/main/LICENSE.txt"><img src="https://img.shields.io/badge/LICENSE-星海量子软件许可协议-3b82f6?style=flat" alt="LICENSE"></a>
   <img src="https://img.shields.io/badge/Status-全新世-blueviolet?style=flat" alt="Status">
   <img src="https://img.shields.io/badge/信念-不想回到末次冰期-lightgrey?style=flat" alt="信念">
 </p>
