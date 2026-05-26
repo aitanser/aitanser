@@ -124,7 +124,7 @@
 <p align="center">
   <a href="https://github.com/aitanser"><img src="https://img.shields.io/badge/GitHub-@aitanser-181717?style=flat&logo=github" alt="GitHub"></a>
   <a href="https://github.com/aitanser?tab=followers"><img src="https://img.shields.io/github/followers/aitanser?style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/aitanser/StarSeaOS"><img src="https://img.shields.io/badge/StarSeaOS-v2.0.0_beta.2-3b82f6?style=flat&logo=python" alt="StarSeaOS"></a>
+  <a href="https://github.com/aitanser/starsea-os"><img src="https://img.shields.io/badge/StarSeaOS-v2.0.0_beta.2-3b82f6?style=flat&logo=python" alt="StarSeaOS"></a>
   <a href="https://github.com/aitanser/UniversalDownloadHelper"><img src="https://img.shields.io/badge/DownloadHelper-v1.2.0-8b5cf6?style=flat&logo=tampermonkey" alt="UniversalDownloadHelper"></a>
   <br>
   <a href="https://afdian.com/a/aitanser"><img src="https://img.shields.io/badge/爱发电-赞助我-ff6b6b?style=flat&logo=heart" alt="爱发电"></a>
@@ -138,7 +138,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" alt="Kubernetes">
   <br>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="License">
+  <img src="https://img.shields.io/badge/源码-保留所有权利-inactive?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Status-全新世-blueviolet?style=flat" alt="Status">
   <img src="https://img.shields.io/badge/信念-不想回到末次冰期-lightgrey?style=flat" alt="信念">
 </p>
